@@ -27,6 +27,6 @@ jobs:
       - name: Publish API to Anypoint Exchange
         run: |
           api-catalog conf username jmmartinv28jul25
-          api-catalog conf password Jmmv0875 
+          api-catalog conf password Jmmartinv28jul25 
           api-catalog conf organization "1f3e2547-7644-459a-9624-5183581d3107" 
           api-catalog publish-asset
